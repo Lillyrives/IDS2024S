@@ -9,4 +9,7 @@
 **Level:** Senior   
 **Position Title:** Student  
 **Course Webpage:** [IDS2024S](www.cdslab.org)    
-**Photo:**  ![A photo of Lilly](![1](https://github.com/Lillyrives/IDS2024S/assets/157654675/4d33d3f6-bb2b-4e98-a771-da2dd147b6f8)
+**Photo:**  
+![A photo of Lilly](![Lilly Rives](https://github.com/Lillyrives/IDS2024S/assets/157654675/20ae6fa5-4472-4d28-92bf-c17f650b31a2)
+
+
