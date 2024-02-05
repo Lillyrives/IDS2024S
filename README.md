@@ -18,4 +18,10 @@
 
 + [exam](./exam/):  This directory contains all my exam submissions, each of which is a folder properly named with exam name or number, containing the exam submission.
 
+> I have not failed. I just found 10,000 ways that won't work.   
+> Thomas Edison
 
+ For questions and troubleshooting, contact:  
+ Lilly Rives  
+ lmr6730@mavs.uta.edu  
+ University of Texas at Arlignton   
