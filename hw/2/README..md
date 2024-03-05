@@ -32,15 +32,26 @@ B. Fortran, C and C++ are third generation languages.  MATLAB, Python and R are 
 15. Runtime error 
 16. We need 18, 446, 744, 073, 709, 551, 615 grains of rice for the last square.  
 17. We need approximately 2, 635, 249, 153, 387, 079 pounds of rice to fill all squares  
-18. 2080 grains   
-19. 66592 grains to fill all the squares  
-20. Approximately 9.51314 pounds of rice to fill all squares.  
-21. We would need to put 9,223,372,036,854,775,808 grains  
-22. We need 18,446,744,073,709,551,615 grains  
-23. Need 2,635,249,153,387,079 pounds  
-24. 407,884 years to produce enough rice grains to place on a chessboard in the manner described  
-25. Variable and Data Storage, Conditional Branching and Iteration or Looping  
-26. Extra credit: Visual Inspection, looking for bends in the curve for exponential behavior and straight-line behavior on a log-log plot for power-law behavior.  Fit to a Model, with regression analysis to fit the data to potential models  
+18. 2080 grains
+20. 66592 grains to fill all the squares  
+21. Approximately 9.51314 pounds of rice to fill all squares.  
+22. We would need to put 9,223,372,036,854,775,808 grains  
+23. We need 18,446,744,073,709,551,615 grains  
+24. Need 2,635,249,153,387,079 pounds  
+25. 407,884 years to produce enough rice grains to place on a chessboard in the manner described
+26. Variable and Data Storage, Conditional Branching and Iteration or Looping  
+27. Extra credit: Visual Inspection, looking for bends in the curve for exponential behavior and straight-line behavior on a log-log plot for power-law behavior.  Fit to a Model, with regression analysis to fit the data to potential models
+28. What is the fastest part of memory in the memory hierarchy of a modern computer? Is the CPU cache.  
+29. What are the primary roles of transactions in computers? Atomicity, Consistency,
+Isolation and Durability.  
+30. We know that more transactions mean faster computers.  Then, why cannot we add more transactions to computers to make them faster? Simply increasing the number of transactions wouldn’t lead to faster computer performance.  
+31. What are the three tasks accomplished within a CPU cycle? Fetch, Decode and Execute  
+32. Can a powerful computer with more CPU cycles be slower than a computer with less CPU cycles? Why or how? Yes, a computer with more CPU can be slower than a computer with fewer CPU it can be a result of inefficient code, software dependencies, heat and power constraints, resources contention and parallelism and concurrency.  
+33.  What is the bottleneck of speed in modern computers? CPU clocks or memory access? Why? The bottleneck lies in memory access rather than CPU clocks so it will spend more time waiting for data from memory and that can limits the overall performance.  
+34.  What is the difference between the Dennard Scaling, MOSFET scaling, and Moore’s law? Dennard Scaling keeps transistor performance with size reduction.  MOSFET Scaling shrinks transistors dimensions for performance.   Moore’s Law it doubles transistor count every two years for computing advancement.  
+
+
+
 
 
 
