@@ -21,7 +21,7 @@ Blue-Red: best for representing data with distinct positive and negative values 
 16. Color as a tool to highlight accent color scale
 17. the different between the dataset is big and it looks messy
 18. its going be hotter it looks like maybe from 0 - 2
-19. Excel 
+19. Excel uploaded 
        
        
  
