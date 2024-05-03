@@ -20,6 +20,8 @@ Potential misleading interpretations. limited visibility of density variation, t
 18.  means its true
 19.  cancel
 20.  yes
-21.  33x34/2 = 560 
+21.  33x34/2 = 560
+
+Find my Quiz 5 in *EXAM 2*
 
 
